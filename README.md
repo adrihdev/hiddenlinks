@@ -1,11 +1,9 @@
 # hiddenlinks-game
-<div align="center">
+<div style="display: flex; justify-content: center;">
 <a href="https://hiddenlinks.vercel.app/">
-<img src="./public/hiddenlinks.png">
+<img src="./public/mockup.png" alt="mockup">
 </a>
-<p></p>
 </div>
 
-un simple juego donde tendrás que mover tu cursor para encontrar los distintos enlaces, solo uno es el correcto.
+un simple juego donde tendrás que mover tu cursor para encontrar el botón que te lleva al siguiente nivel, solo uno es el correcto.
 buena suerte.
-**[ ](https://hiddenlinks.vercel.app/)**

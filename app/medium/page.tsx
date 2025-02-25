@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import React from "react";
 
 export default function Medium() {
   const gridSize = 7;

@@ -29,7 +29,7 @@ export function Footer() {
           </li>
           <li>
             <a className="hover:underline me-4 md:me-6 flex items-center">
-              <Image src="/logo.png" alt="Logo" width={32} height={32} />
+              <Image src="/me.svg" alt="me" width={32} height={32} />
             </a>
           </li>
         </ul>

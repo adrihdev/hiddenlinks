@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { Home } from 'lucide-react'
-import { Footer } from '../components/Footer'
+import { Footer } from '@/components/Footer'
 
 export default function Lose() {
   return (
